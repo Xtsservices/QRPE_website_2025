@@ -48,7 +48,7 @@ const ContactPage = () => {
     {
       icon: Phone,
       title: 'Call Us',
-      details: ['+91 22 1234 5678', '+91 98765 43210', 'Mon-Fri, 9AM-6PM IST'],
+      details: ['+91 9392392143', '+91 9392392143', 'Mon-Fri, 9AM-6PM IST'],
       color: '#0d3054'
     },
     {
@@ -169,7 +169,7 @@ const ContactPage = () => {
                     value={formData.phone}
                     onChange={handleChange}
                     className="bg-white/10 border-white/20 text-white placeholder:text-white/50 focus:border-[#0270ca] transition-all"
-                    placeholder="+91 98765 43210"
+                    placeholder="+91 9392392143"
                   />
                 </div>
                 <div>
