@@ -1,7 +1,5 @@
 
-  # Animated QRPE Website
-
-  This is a code bundle for Animated QRPE Website. The original project is available at https://www.figma.com/design/BoG7RaNyfwPZ9GkMxqojAA/Animated-QRPE-Website.
+  #QRPE Website
 
   ## Running the code
 
