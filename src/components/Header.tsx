@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { ChevronDown, Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 import { Link, useNavigate } from 'react-router-dom';
-import qrpeLogo from 'figma:asset/b335b1bafda0c649f13790c66bebdb614f6dcc33.png';
+import qrpeLogo from '../assets/b335b1bafda0c649f13790c66bebdb614f6dcc33.jpg';
 
 interface DropdownItem {
   title: string;

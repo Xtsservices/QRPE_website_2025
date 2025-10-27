@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { Linkedin, Twitter, Facebook, Instagram, Mail, Phone } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import qrpeLogo from 'figma:asset/b335b1bafda0c649f13790c66bebdb614f6dcc33.png';
+import qrpeLogo from '../assets/b335b1bafda0c649f13790c66bebdb614f6dcc33.jpg';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -141,9 +141,12 @@ const Footer = () => {
           transition={{ duration: 0.5, delay: 0.5 }}
         >
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
-            <p className="text-gray-300 text-sm">
-              © {currentYear} QRPE Solutions Pvt Ltd. All rights reserved.
-            </p>
+            <p className="text-gray-300 text-sm text-center flex items-center justify-center gap-1">
+  <span className="text-2xl font-semibold leading-none">®</span>
+  {currentYear} QRPE Solutions Pvt Ltd. All rights reserved.
+</p>
+
+
 
             {/* Social Links */}
             <div className="flex items-center gap-4">

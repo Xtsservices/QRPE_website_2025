@@ -17,7 +17,7 @@
         'next-themes@0.4.6': 'next-themes',
         'lucide-react@0.487.0': 'lucide-react',
         'input-otp@1.4.2': 'input-otp',
-        'figma:asset/b335b1bafda0c649f13790c66bebdb614f6dcc33.png': path.resolve(__dirname, './src/assets/b335b1bafda0c649f13790c66bebdb614f6dcc33.png'),
+        'figma:asset/b335b1bafda0c649f13790c66bebdb614f6dcc33.png': path.resolve(__dirname, './src/assets/b335b1bafda0c649f13790c66bebdb614f6dcc33.jpg'),
         'embla-carousel-react@8.6.0': 'embla-carousel-react',
         'cmdk@1.1.1': 'cmdk',
         'class-variance-authority@0.7.1': 'class-variance-authority',

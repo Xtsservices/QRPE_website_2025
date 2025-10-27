@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { Button } from './ui/button';
-import qrpeLogo from 'figma:asset/b335b1bafda0c649f13790c66bebdb614f6dcc33.png';
+import qrpeLogo from '../assets/b335b1bafda0c649f13790c66bebdb614f6dcc33.jpg';
 
 interface Slide {
   title: string;
