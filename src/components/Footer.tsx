@@ -76,10 +76,9 @@ const Footer = () => {
               <div className="space-y-3 text-gray-300">
                 <p>
                   QRPE Solutions Pvt Ltd<br />
-                  Plot.no.29 NPL,<br />
-                  Sri Sai Nagar colony, Meerpet<br />
-                  Hyderabad, Rangareddy,<br />
-                  Telangana 500097
+                  Flat no-504 & 505, 5th Floor,<br />
+                  Sree Nilayam, Lanco Hills Road, <br />
+                   Manikonda,Hyderabad-500089<br />
                 </p>
                 <div className="flex items-start gap-2">
                   <Phone className="w-4 h-4 mt-1 flex-shrink-0" />

@@ -42,7 +42,7 @@ const ContactPage = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: ['123 Business District', 'Tech Hub, Mumbai 400001', 'India'],
+      details: ['Flat no-504 & 505, 5th Floor,Sree Nilayam, Lanco Hills Road, Manikonda, Hyderabad-500089'],
       color: '#0270ca'
     },
     {
