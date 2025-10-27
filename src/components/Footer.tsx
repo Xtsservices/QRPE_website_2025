@@ -142,7 +142,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-gray-300 text-sm text-center flex items-center justify-center gap-1">
-  <span className="text-2xl font-semibold leading-none">®</span>
+  <span className="text-xl font-semibold leading-none">©</span>
   {currentYear} QRPE Solutions Pvt Ltd. All rights reserved.
 </p>
 
